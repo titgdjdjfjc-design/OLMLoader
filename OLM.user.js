@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         OLM GOD MODE v1.6 - Thiên Tai Tù Tội (VIP LOADER)
+// @name         OLM GOD MODE v1.7 - Thiên Tai Tù Tội (VIP LOADER)
 // @namespace    http://tampermonkey.net/
 // @version      1.7
 // @description  Hệ thống tự động hóa OLM.
