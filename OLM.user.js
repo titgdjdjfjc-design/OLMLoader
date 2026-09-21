@@ -2,7 +2,7 @@
 // @name         OLM GOD MODE v1.6 - Thiên Tai Tù Tội (VIP LOADER)
 // @namespace    http://tampermonkey.net/
 // @version      1.7
-// @description  Hệ thống tự động hóa OLM. Kéo code ngầm từ KeyVault Server với cache thông minh, auto-update.
+// @description  Hệ thống tự động hóa OLM.
 // @author       Thiên Tai Tù Tội 
 // @match        *://olm.vn/*
 // @grant        GM_xmlhttpRequest
